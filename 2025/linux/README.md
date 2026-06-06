@@ -103,5 +103,5 @@ Check out my blog here: [Your Blog/GitHub Link]
 
 ---
 
-Happy learning, and see you in **Week 3**! 🚀
+Happy learning, from trainwithshubham and see you in **Week 3**! 🚀
 
